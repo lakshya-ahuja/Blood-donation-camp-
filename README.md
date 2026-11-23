@@ -223,7 +223,7 @@ You only need:
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/lakshya-ahuja/Blood-donation-camp-
 ```
 
 Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
